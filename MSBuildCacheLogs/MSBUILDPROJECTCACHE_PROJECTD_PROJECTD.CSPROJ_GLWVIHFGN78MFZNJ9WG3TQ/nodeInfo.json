@@ -1,0 +1,25 @@
+{
+  "id": "MSBUILDPROJECTCACHE_PROJECTD_PROJECTD.CSPROJ_GLWVIHFGN78MFZNJ9WG3TQ",
+  "projectFileRelativePath": "MsBuildProjectCache\\ProjectD\\ProjectD.csproj",
+  "globalProperties": {
+    "Configuration": "Debug",
+    "DefineExplicitDefaults": "true",
+    "DevEnvDir": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\Common7\\IDE\\",
+    "IsGraphBuild": "true",
+    "LangID": "1033",
+    "LangName": "en-US",
+    "Platform": "x64",
+    "UseHostCompilerIfAvailable": "false",
+    "VSIDEResolvedNonMSBuildProjectOutputs": "\u003CVSIDEResolvedNonMSBuildProjectOutputs /\u003E"
+  },
+  "targetNames": [
+    "rebuild",
+    "GetTargetFrameworksWithPlatformForSingleTargetFramework",
+    "Clean",
+    "Build",
+    "GetNativeManifest",
+    "GetCopyToOutputDirectoryItems",
+    "GetTargetFrameworks"
+  ],
+  "dependencies": []
+}

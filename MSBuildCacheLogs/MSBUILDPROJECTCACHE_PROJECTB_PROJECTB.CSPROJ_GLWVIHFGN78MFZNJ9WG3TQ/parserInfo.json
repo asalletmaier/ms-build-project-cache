@@ -1,0 +1,990 @@
+{
+  "projectFileRelativePath": "MsBuildProjectCache\\ProjectB\\ProjectB.csproj",
+  "inputs": [
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Containers\\build\\Microsoft.NET.Build.Containers.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.DisableStandardFrameworkResolution.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.SourceLink.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Microsoft.Common.targets\\ImportAfter\\Containers.Tools.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.CSharp.CurrentVersion.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.DesignerSupport.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.workload.mono.toolchain.net6\\8.0.2\\WorkloadManifest.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Microsoft\\VisualStudio\\Managed\\Microsoft.Managed.DesignTime.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.PackTool.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Microsoft\\VisualStudio\\v17.0\\TeamTest\\Microsoft.TeamTest.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Microsoft.NETCoreSdk.BundledCliTools.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.SupportedPlatforms.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Microsoft.Common.targets\\ImportAfter\\Microsoft.Web.ImportAfter.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.sdk.maui\\8.0.6\\WorkloadManifest.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.sdk.aspire\\8.0.0-preview.1.23557.2\\WorkloadManifest.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.Build.Tasks.Git\\build\\Microsoft.Build.Tasks.Git.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.ApiCompat.Common.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.DefaultAssemblyInfo.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "{RepoRoot}MsBuildProjectCache\\ProjectD\\ProjectD.csproj",
+      "predictorNames": [
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.PreserveCompilationContext.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.NET.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.SourceLink.AzureRepos.Git\\build\\Microsoft.SourceLink.AzureRepos.Git.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.SourceLink.Common\\build\\Microsoft.SourceLink.Common.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "{NugetPackageRoot}microsoft.msbuildcache.sharedcompilation\\0.1.271-preview\\build\\Microsoft.MSBuildCache.SharedCompilation.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportPublishProfile.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.workload.emscripten.net6\\8.0.2\\WorkloadManifest.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.CSharp.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.sdk.ios\\17.2.8004\\WorkloadManifest.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Publish.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Imports\\Microsoft.Common.props\\ImportBefore\\Microsoft.LiveUnitTesting.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Microsoft\\VisualStudio\\v17.0\\CodeAnalysis\\Microsoft.CodeAnalysis.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.SourceLink.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.Analyzers.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Microsoft.Common.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Microsoft\\VisualStudio\\v17.0\\Fakes\\Microsoft.QualityTools.Testing.Fakes.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "{RepoRoot}MsBuildProjectCache\\ProjectD\\obj\\ProjectD.csproj.nuget.g.props",
+      "predictorNames": [
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.DefaultOutputPaths.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.PackTool.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "{RepoRoot}MsBuildProjectCache\\ProjectB\\Class1.cs",
+      "predictorNames": [
+        "CompileItemsPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.WorkflowBuildExtensions.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.PackProjectTool.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\System.Windows.Forms.Analyzers.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.NuGetOfflineCache.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\analyzers\\build\\Microsoft.CodeAnalysis.NetAnalyzers.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.WPF.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.DefaultPackageConflictOverrides.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.workload.mono.toolchain.current\\8.0.2\\WorkloadManifest.Wasi.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Xaml.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.sdk.macos\\14.2.8004\\WorkloadManifest.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Microsoft.Common.targets\\ImportAfter\\Microsoft.QualityTools.Testing.Fakes.ImportAfter.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.Docker.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.ComposeStore.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.Build.Tasks.Git\\build\\Microsoft.Build.Tasks.Git.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.sdk.android\\34.0.52\\WorkloadManifest.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "{RepoRoot}MsBuildProjectCache\\ProjectB\\obj\\ProjectB.csproj.nuget.g.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor"
+      ]
+    },
+    {
+      "path": "{NugetPackageRoot}microsoft.msbuildcache.local\\0.1.271-preview\\build\\Microsoft.MSBuildCache.Common.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.PackProjectTool.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Imports\\Microsoft.Common.props\\ImportBefore\\Microsoft.NuGet.ImportBefore.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "{NugetPackageRoot}microsoft.msbuildcache.sharedcompilation\\0.1.271-preview\\build\\Microsoft.MSBuildCache.SharedCompilation.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.workload.emscripten.current\\8.0.2\\WorkloadManifest.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.BeforeCommon.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.DefaultArtifactsPath.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.ApiCompat.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Managed.Before.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.RuntimeIdentifierInference.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "{RepoRoot}MsBuildProjectCache\\ProjectB\\ProjectB.csproj",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.CSharp.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.CSharp.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.SourceLink.GitLab\\build\\Microsoft.SourceLink.GitLab.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.SupportedTargetFrameworks.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\Common7\\IDE\\CommonExtensions\\Microsoft\\NuGet\\NuGet.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.SourceLink.GitHub\\build\\Microsoft.SourceLink.GitHub.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Containers\\build\\Microsoft.NET.Build.Containers.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Microsoft.Common.targets\\ImportAfter\\Microsoft.LiveUnitTesting.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.workload.mono.toolchain.net7\\8.0.2\\WorkloadManifest.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Microsoft.ServiceModel.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.CrossGen.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.ConflictResolution.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Microsoft.Common.targets\\ImportAfter\\Microsoft.NET.Build.Extensions.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.sdk.tvos\\17.2.8004\\WorkloadManifest.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.workload.mono.toolchain.current\\8.0.2\\WorkloadManifest.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.Common.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.SourceLink.Common\\build\\Microsoft.SourceLink.Common.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Microsoft.Common.targets\\ImportAfter\\Microsoft.NuGet.ImportAfter.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "{NugetPackageRoot}microsoft.msbuildcache.local\\0.1.271-preview\\build\\Microsoft.MSBuildCache.Common.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Microsoft.NETCoreSdk.BundledVersions.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Windows.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.CurrentVersions.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.SourceLink.Common\\build\\InitializeSourceControlInformation.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.SourceLink.Bitbucket.Git\\build\\Microsoft.SourceLink.Bitbucket.Git.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\analyzers\\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll",
+      "predictorNames": [
+        "AnalyzerItemsPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.SourceLink.Bitbucket.Git\\build\\Microsoft.SourceLink.Bitbucket.Git.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Microsoft.Xaml.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Microsoft.Common.targets\\ImportAfter\\Microsoft.Docker.ImportAfter.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.Shared.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "{RepoRoot}MsBuildProjectCache\\ProjectD\\obj\\ProjectD.csproj.nuget.g.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Microsoft\\Microsoft.NET.Build.Extensions\\Microsoft.NET.Build.Extensions.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "{RepoRoot}MsBuildProjectCache\\ProjectB\\obj\\ProjectB.csproj.nuget.g.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.GenerateSupportedRuntime.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "{NugetPackageRoot}microsoft.msbuildcache.local\\0.1.271-preview\\build\\Microsoft.MSBuildCache.Local.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Microsoft.Common.targets\\ImportAfter\\Microsoft.WebTools.Aspire.ImportAfter.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\analyzers\\Microsoft.CodeAnalysis.NetAnalyzers.dll",
+      "predictorNames": [
+        "AnalyzerItemsPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Microsoft\\VisualStudio\\Managed\\Microsoft.CSharp.DesignTime.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.SourceLink.GitLab\\build\\Microsoft.SourceLink.GitLab.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\analyzers\\build\\Microsoft.CodeAnalysis.NetAnalyzers.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\Sdk\\Sdk.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.GenerateAssemblyInfo.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.SourceLink.AzureRepos.Git\\build\\Microsoft.SourceLink.AzureRepos.Git.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.sdk.maccatalyst\\17.2.8004\\WorkloadManifest.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.SourceLink.GitHub\\build\\Microsoft.SourceLink.GitHub.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.workload.emscripten.net7\\8.0.2\\WorkloadManifest.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\Common7\\IDE\\CommonExtensions\\Microsoft\\NuGet\\NuGet.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Microsoft\\NuGet\\17.0\\Microsoft.NuGet.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "{NugetPackageRoot}microsoft.msbuildcache.local\\0.1.271-preview\\build\\Microsoft.MSBuildCache.Local.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Microsoft\\VisualStudio\\WebTools.Aspire\\Microsoft.WebTools.Aspire.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.GenerateGlobalUsings.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Microsoft.WorkflowBuildExtensions.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\Sdk\\UseArtifactsOutputPath.props",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Managed.After.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.ApiCompat.ValidatePackage.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.ServiceModel.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\Sdk\\Sdk.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    },
+    {
+      "path": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.ObsoleteReferences.targets",
+      "predictorNames": [
+        "ProjectFileAndImportsPredictor",
+        "ProjectFileAndImportsGraphPredictor"
+      ]
+    }
+  ]
+}

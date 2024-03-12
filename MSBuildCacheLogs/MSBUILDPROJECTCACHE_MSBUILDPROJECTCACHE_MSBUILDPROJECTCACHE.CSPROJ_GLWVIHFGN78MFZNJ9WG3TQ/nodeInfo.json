@@ -1,0 +1,23 @@
+{
+  "id": "MSBUILDPROJECTCACHE_MSBUILDPROJECTCACHE_MSBUILDPROJECTCACHE.CSPROJ_GLWVIHFGN78MFZNJ9WG3TQ",
+  "projectFileRelativePath": "MsBuildProjectCache\\MsBuildProjectCache\\MsBuildProjectCache.csproj",
+  "globalProperties": {
+    "Configuration": "Debug",
+    "DefineExplicitDefaults": "true",
+    "DevEnvDir": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\Common7\\IDE\\",
+    "IsGraphBuild": "true",
+    "LangID": "1033",
+    "LangName": "en-US",
+    "Platform": "x64",
+    "UseHostCompilerIfAvailable": "false",
+    "VSIDEResolvedNonMSBuildProjectOutputs": "\u003CVSIDEResolvedNonMSBuildProjectOutputs /\u003E"
+  },
+  "targetNames": [
+    "rebuild"
+  ],
+  "dependencies": [
+    "MSBUILDPROJECTCACHE_PROJECTB_PROJECTB.CSPROJ_GLWVIHFGN78MFZNJ9WG3TQ",
+    "MSBUILDPROJECTCACHE_PROJECTD_PROJECTD.CSPROJ_GLWVIHFGN78MFZNJ9WG3TQ",
+    "MSBUILDPROJECTCACHE_PROJECTC_PROJECTC.CSPROJ_GLWVIHFGN78MFZNJ9WG3TQ"
+  ]
+}
