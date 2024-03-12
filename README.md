@@ -1,0 +1,1 @@
+# ms-build-project-cache
